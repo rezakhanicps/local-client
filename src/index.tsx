@@ -11,9 +11,6 @@ const App = () => {
             <div>
                 <CellList />
             </div>
-            <div>
-                ksdjf
-            </div>
         </Provider> 
     );
 };
